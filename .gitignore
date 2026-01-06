@@ -14,3 +14,7 @@ _autosave-*
 # KiCad cache
 fp-info-cache
 **/fp-info-cache
+
+# KiCad lock/autosave
+*.lck
+~_autosave-*
