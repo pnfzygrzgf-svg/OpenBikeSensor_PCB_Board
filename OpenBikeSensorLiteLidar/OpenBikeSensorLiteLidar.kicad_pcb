@@ -89,7 +89,7 @@
 		(aux_axis_origin 64.195 63.735)
 		(grid_origin 64.195 63.735)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -2922,7 +2922,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "RECHTS"
+	(gr_text "LINKS"
 		(at 70.195 62.735 0)
 		(layer "B.SilkS")
 		(uuid "2162ae20-773b-4da0-90dd-4d040a60d100")
@@ -2948,7 +2948,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "LINKS"
+	(gr_text "RECHTS"
 		(at 61.695 62.735 0)
 		(layer "B.SilkS")
 		(uuid "6cadd1e9-12a2-483b-b420-0d97f35c429b")

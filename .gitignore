@@ -18,3 +18,13 @@ fp-info-cache
 # KiCad lock/autosave
 *.lck
 ~_autosave-*
+
+# KiCad lock / temp
+*.lck
+
+# KiCad local project settings (machine/user specific)
+*.kicad_prl
+
+# macOS junk
+.DS_Store
+
