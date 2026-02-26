@@ -5,11 +5,7 @@
 
 **Neu in diesem Fork:**
 - **OpenBikeSensor Lite LiDAR** (`OpenBikeSensorLiteLidar/`) — PCB-Variante mit 2x TF-Luna LiDAR statt Ultraschallsensoren
-- **L/R Label-Fix** — korrigierte Links/Rechts-Beschriftung auf dem Lite LiDAR PCB
 
-Dieses Repository enthält die offiziellen PCBs des OpenBikeSensor Projektes.
-Sie sind in der freien Software [KiCad](https://www.kicad.org/) erstellt und
-können damit modifiziert werden.
 
 ## Versionen
 
