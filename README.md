@@ -1,7 +1,11 @@
 # OpenBikeSensor PCB
 
-**Hinweis:** Dieses Repository ist ein Klon/Fork des offiziellen OpenBikeSensor PCB-Repositories und enthält zusätzliche Erweiterungen.
-Insbesondere wurde eine Variante **OpenBikeSensor Lite LiDAR** (2x TF-Luna) ergänzt bzw. angepasst.
+**Hinweis:** Dieses Repository ist ein Klon/Fork des offiziellen
+[OpenBikeSensor PCB-Repositories](https://github.com/openbikesensor/OpenBikeSensor_PCB_Board) und enthält zusätzliche Erweiterungen.
+
+**Neu in diesem Fork:**
+- **OpenBikeSensor Lite LiDAR** (`OpenBikeSensorLiteLidar/`) — PCB-Variante mit 2x TF-Luna LiDAR statt Ultraschallsensoren
+- **L/R Label-Fix** — korrigierte Links/Rechts-Beschriftung auf dem Lite LiDAR PCB
 
 Dieses Repository enthält die offiziellen PCBs des OpenBikeSensor Projektes.
 Sie sind in der freien Software [KiCad](https://www.kicad.org/) erstellt und
