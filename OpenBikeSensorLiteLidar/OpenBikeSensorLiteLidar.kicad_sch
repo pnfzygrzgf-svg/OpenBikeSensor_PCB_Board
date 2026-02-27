@@ -8,6 +8,8 @@
 		(title "OpenBikeSensorLiteLidar")
 		(date "2025-12-29")
 		(rev "0.1")
+		(comment 1 "License: LGPL-3.0-or-later")
+		(comment 2 "https://github.com/openbikesensor/OpenBikeSensor_PCB_Board")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
